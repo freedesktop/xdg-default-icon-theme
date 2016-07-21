@@ -21,7 +21,7 @@
 
 2006-11-22  Alexander Larsson  <alexl@redhat.com>
 
-	* configure.ac: 
+	* configure.ac:
 	Bump version to 0.10
 
 2006-11-22  Alexander Larsson  <alexl@redhat.com>
@@ -44,10 +44,10 @@
 	Sort values for Directories keys (fix gnome bug 315841) and add missing
 	entries. Now all installed directories should have an entry in this
 	file.
-	
+
 2005-04-08  Alexander Larsson  <alexl@redhat.com>
 
-	* Makefile.in (ICON_CONTEXTS): 
+	* Makefile.in (ICON_CONTEXTS):
 	Add emblem subdir
 
 	* configure.ac:
@@ -89,7 +89,7 @@
 
 	* Makefile.in:
 	Added back COPYING
-	
+
 2004-02-11  Alexander Larsson  <alexl@redhat.com>
 
 	* Makefile:
@@ -101,7 +101,7 @@
 
 2004-02-10  Alexander Larsson  <alexl@redhat.com>
 
-	* COPYING: 
+	* COPYING:
 	* Makefile (FILES):
 	Added GPL license.
 
@@ -110,7 +110,7 @@
 	* Makefile:
 	Update version to 0.3
 	Add new dir sizes
-	
+
 	* index.theme:
 	Add stock icon dirs
 
@@ -129,10 +129,10 @@
 
 	* Makefile (tag):
 	Added a tag target.
-	
+
 2002-05-14  Alex Larsson  <alexl@redhat.com>
 
 	* Makefile (dist):
 	Added a dist target.
-	
+
 
