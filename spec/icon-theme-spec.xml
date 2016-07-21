@@ -111,7 +111,7 @@
     in $XDG_DATA_DIRS/icons and in /usr/share/pixmaps (in that order).
     Applications may further add
     their own icon directories to this list, and users may extend or
-    change the list (in application/desktop specific ways).In each of
+    change the list (in application/desktop specific ways). In each of
     these directories themes are stored as subdirectories. A theme can
     be spread across several base directories by having subdirectories of
     the same name. This way users can extend and override system
