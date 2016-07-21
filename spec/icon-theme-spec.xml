@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" 
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
 "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd" [
 ]>
 <article id="index">
@@ -68,7 +68,7 @@
           PNG is the recommended bitmap format, and SVG is for
           vectorized icons. XPM is supported due to backwards
           compability reasons, and it is not recommended that new
-          themes use XPM files. Support for SVGs is optional. 
+          themes use XPM files. Support for SVGs is optional.
 	  </para>
 	</listitem>
       </varlistentry>
@@ -114,8 +114,8 @@
     change the list (in application/desktop specific ways).In each of
     these directories themes are stored as subdirectories. A theme can
     be spread across several base directories by having subdirectories of
-    the same name. This way users can extend and override system 
-    themes. 
+    the same name. This way users can extend and override system
+    themes.
     </para>
     <para>
     In order to have a place for third party applications to install
@@ -167,7 +167,7 @@
     <para>
     Both the icon theme description file and the icon data files are
     ini-style text files, as described in the desktop file
-    specification. They don't have any encoding field. Instead, they 
+    specification. They don't have any encoding field. Instead, they
     must always be stored in UTF-8 encoding.
     </para>
     <para>
@@ -306,7 +306,7 @@
 	  <row>
 	    <entry>Context</entry>
 	    <entry>
-              The context the icon is normally used in. This 
+              The context the icon is normally used in. This
               is in detail discussed in <xref linkend="context"/>.
 	    </entry>
 	    <entry>string</entry>
@@ -435,10 +435,10 @@
     <sect2 id="context">
 	<title>Context</title>
 
-	<para>The <systemitem>Context</systemitem> allows 
-    	  the designer to group icons on a conceptual level. 
-	  It doesn't act as a namespace in the file system, such 
-	  that icons can have identical names, but allows 
+	<para>The <systemitem>Context</systemitem> allows
+    	  the designer to group icons on a conceptual level.
+	  It doesn't act as a namespace in the file system, such
+	  that icons can have identical names, but allows
 	  implementations to categorize and sort by it, for example.
  	</para>
 
@@ -455,8 +455,8 @@
 	  <listitem>
 	    <formalpara>
 	    <title>Devices</title>
-	    <para>Icons representing real world devices, 
-		    such as printers and mice. It's not for 
+	    <para>Icons representing real world devices,
+		    such as printers and mice. It's not for
 		    file system nodes such as character or block devices.</para>
 	    </formalpara>
 	  </listitem>
@@ -464,9 +464,9 @@
 	  <listitem>
 	    <formalpara>
 	      <title>FileSystems</title>
-	      <para>Icons for objects which are represented as 
-		 part of the file system. This is for example, 
-		 the local network, <quote>Home</quote>, 
+	      <para>Icons for objects which are represented as
+		 part of the file system. This is for example,
+		 the local network, <quote>Home</quote>,
 		 and <quote>Desktop</quote> folders.</para>
 	    </formalpara>
 	  </listitem>
@@ -479,7 +479,7 @@
 	  </listitem>
 
 	</itemizedlist>
-		
+
     </sect2>
   </sect1>
 
@@ -754,7 +754,7 @@ AttachPoints=20,20|40,40|50,10|10,50</programlisting>
     sizes. For example, installing a svg icon in $prefix/share/icons/hicolor/scalable/apps
     means most desktops will have one icon that works for all sizes. You might even want to
     install icons with a look that matches other well known themes so your application
-    will fit in with some specific desktop environment. 
+    will fit in with some specific desktop environment.
     </para>
     <para>
     It is recommended that the icons installed in the hicolor theme look neutral,
@@ -796,7 +796,7 @@ AttachPoints=20,20|40,40|50,10|10,50</programlisting>
     description files and removes a few references to kde in them.
     </para>
   </sect1>
-  
+
   <appendix id="changes">
     <title>Change history</title>
     <formalpara>
@@ -812,7 +812,7 @@ AttachPoints=20,20|40,40|50,10|10,50</programlisting>
       </para>
     </formalpara>
     <formalpara>
-      <title>Version 0.12, 24 December 2006, Octavio Alvarez</title>    
+      <title>Version 0.12, 24 December 2006, Octavio Alvarez</title>
       <para>
 	<itemizedlist>
 	  <listitem>
@@ -825,7 +825,7 @@ AttachPoints=20,20|40,40|50,10|10,50</programlisting>
       </para>
     </formalpara>
     <formalpara>
-      <title>Version 0.11, 7 February 2006, Alexander Larsson</title>    
+      <title>Version 0.11, 7 February 2006, Alexander Larsson</title>
       <para>
 	<itemizedlist>
 	  <listitem>
@@ -837,7 +837,7 @@ AttachPoints=20,20|40,40|50,10|10,50</programlisting>
       </para>
     </formalpara>
     <formalpara>
-      <title>Version 0.10, 7 February 2006, Alexander Larsson</title>    
+      <title>Version 0.10, 7 February 2006, Alexander Larsson</title>
       <para>
 	<itemizedlist>
 	  <listitem>
@@ -855,7 +855,7 @@ AttachPoints=20,20|40,40|50,10|10,50</programlisting>
       </para>
     </formalpara>
     <formalpara>
-      <title>Version 0.9, 4 April 2005, Alexander Larsson</title>    
+      <title>Version 0.9, 4 April 2005, Alexander Larsson</title>
       <para>
 	<itemizedlist>
 	  <listitem>
@@ -874,7 +874,7 @@ AttachPoints=20,20|40,40|50,10|10,50</programlisting>
       </para>
     </formalpara>
     <formalpara>
-      <title>Version 0.8, 5 February 2004, Alexander Larsson</title>    
+      <title>Version 0.8, 5 February 2004, Alexander Larsson</title>
       <para>
 	<itemizedlist>
 	  <listitem>
@@ -892,7 +892,7 @@ AttachPoints=20,20|40,40|50,10|10,50</programlisting>
       </para>
     </formalpara>
     <formalpara>
-      <title>Version 0.7, 13 September 2003, Heinrich Wendel</title>    
+      <title>Version 0.7, 13 September 2003, Heinrich Wendel</title>
       <para>
 	<itemizedlist>
 	  <listitem>
@@ -919,7 +919,7 @@ AttachPoints=20,20|40,40|50,10|10,50</programlisting>
       </para>
     </formalpara>
     <formalpara>
-      <title>Version 0.6, 2 December 2002, Alexander Larsson</title>    
+      <title>Version 0.6, 2 December 2002, Alexander Larsson</title>
       <para>
 	<itemizedlist>
 	  <listitem>
@@ -951,7 +951,7 @@ AttachPoints=20,20|40,40|50,10|10,50</programlisting>
       </para>
     </formalpara>
     <formalpara>
-      <title>Version 0.5, 18 September 2002, Alexander Larsson</title>    
+      <title>Version 0.5, 18 September 2002, Alexander Larsson</title>
       <para>
 	<itemizedlist>
 	  <listitem>
@@ -973,7 +973,7 @@ AttachPoints=20,20|40,40|50,10|10,50</programlisting>
       </para>
     </formalpara>
     <formalpara>
-      <title>Version 0.4, 16 May 2002, Alexander Larsson</title>    
+      <title>Version 0.4, 16 May 2002, Alexander Larsson</title>
       <para>
 	<itemizedlist>
 	  <listitem>
@@ -985,7 +985,7 @@ AttachPoints=20,20|40,40|50,10|10,50</programlisting>
       </para>
     </formalpara>
     <formalpara>
-      <title>Version 0.3, 14 May 2002, Alexander Larsson</title>    
+      <title>Version 0.3, 14 May 2002, Alexander Larsson</title>
       <para>
 	<itemizedlist>
 	  <listitem>
@@ -1008,7 +1008,7 @@ AttachPoints=20,20|40,40|50,10|10,50</programlisting>
       </para>
     </formalpara>
     <formalpara>
-      <title>Version 0.2, 29 April 2002, Alexander Larsson</title>    
+      <title>Version 0.2, 29 April 2002, Alexander Larsson</title>
       <para>
 	<itemizedlist>
 	  <listitem>
@@ -1041,7 +1041,7 @@ AttachPoints=20,20|40,40|50,10|10,50</programlisting>
       </para>
     </formalpara>
     <formalpara>
-      <title>Version 0.1, 22 April 2002, Alexander Larsson</title>    
+      <title>Version 0.1, 22 April 2002, Alexander Larsson</title>
       <para>
 	<itemizedlist>
 	  <listitem>

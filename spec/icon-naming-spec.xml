@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" 
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN"
 "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd" [
 ]>
 <article id="index">
@@ -2284,7 +2284,7 @@ and "network-transmit-receive" to the status context</para>
       </para>
     </formalpara>
     <formalpara>
-      <title>Version 0.6, 07 December 2005, Rodney Dawes</title>    
+      <title>Version 0.6, 07 December 2005, Rodney Dawes</title>
       <para>
 	<itemizedlist>
 	  <listitem>
@@ -2382,7 +2382,7 @@ and "network-transmit-receive" to the status context</para>
       </para>
     </formalpara>
     <formalpara>
-      <title>Version 0.4, 10 October 2005, Rodney Dawes</title>    
+      <title>Version 0.4, 10 October 2005, Rodney Dawes</title>
       <para>
 	<itemizedlist>
 	  <listitem>
@@ -2417,7 +2417,7 @@ and "network-transmit-receive" to the status context</para>
       </para>
     </formalpara>
     <formalpara>
-      <title>Version 0.3, 28 June 2005, Rodney Dawes</title>    
+      <title>Version 0.3, 28 June 2005, Rodney Dawes</title>
       <para>
 	<itemizedlist>
 	  <listitem>
@@ -2439,7 +2439,7 @@ and "network-transmit-receive" to the status context</para>
       </para>
     </formalpara>
     <formalpara>
-      <title>Version 0.2, 01 April 2005, Jakub Steiner</title>    
+      <title>Version 0.2, 01 April 2005, Jakub Steiner</title>
       <para>
 	<itemizedlist>
 	  <listitem>
@@ -2451,7 +2451,7 @@ and "network-transmit-receive" to the status context</para>
       </para>
     </formalpara>
     <formalpara>
-      <title>Version 0.1, 29 March 2005, Rodney Dawes</title>    
+      <title>Version 0.1, 29 March 2005, Rodney Dawes</title>
       <para>
 	<itemizedlist>
 	  <listitem>
