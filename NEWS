@@ -1,3 +1,7 @@
+New in 0.16:
+
+ * Add hidpi icon directories (e.g. 48x48@2) with scale=2
+
 New in 0.15:
 
  * A new icon subdirectory symbolic/apps is available for symbolic
